@@ -50,5 +50,5 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 ```md
 ### Spotify Playing 🎧
 
-[<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+[<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/hs0vo3bq0xfojp2bh5uv7lv9q)
 ```
